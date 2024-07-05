@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = distadiomichele93@gmail.com
+	name = Michele Di Stadio
